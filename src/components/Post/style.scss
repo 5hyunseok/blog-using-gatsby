@@ -51,11 +51,11 @@
     }
     &__readmore {
         font-size: $typographic-base-font-size;
-        color: $color-primary;
+        color: $color-basey;
         &:hover,
         &:focus {
-            color: $color-primary;
-            border-bottom: 1px solid $color-primary;
+            color: $color-base;
+            border-bottom: 1px solid $color-base;
         }
     }
 }
