@@ -11,7 +11,7 @@ module.exports = {
     subtitle:
       '안녕하세요, 오현석입니다.',
     copyright: '© All rights reserved.',
-    disqusShortname: '5xhs',
+    disqusShortname: '5hyunseok',
     menu: [
       {
         label: 'Articles',
@@ -29,7 +29,7 @@ module.exports = {
     author: {
       name: '오현석',
       email: '5xhyunseok@gmail.com',
-      github: 'https://github.com/5hyunseok',
+      github: '5hyunseok',
       instagram: '#',
     },
   },
