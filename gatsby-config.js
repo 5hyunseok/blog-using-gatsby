@@ -14,16 +14,20 @@ module.exports = {
     disqusShortname: '5hyunseok',
     menu: [
       {
-        label: 'Articles',
+        label: '전체 보기',
         path: '/',
+      },
+      {
+        label: ' - 독서',
+        path: '/categories/books/',
+      },
+      {
+        label: ' - WebRTC',
+        path: '/categories/webrtc/',
       },
       {
         label: 'About me',
         path: '/about/',
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/',
       },
     ],
     author: {
