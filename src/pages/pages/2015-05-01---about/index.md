@@ -4,10 +4,22 @@ layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## 소개
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+안녕하세요 오현석입니다.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+글과 디자인을 사랑하는 컴퓨터 사이언티스트입니다.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+반가워요 🙂
+
+## Education
+
+- 연세대학교 컴퓨터과학과 졸업 2017.2
+
+- 연세대학교 일반대학원 컴퓨터과학과 졸업 (데이터베이스 연구실) 2019.2 
+
+## Career (Instructor)
+
+- 2012.11 ~ 2014.10  37docy 이상수학원 고등부 수학강사
+
+- 2014.12 ~ 2016.12  교육 스타트업 스터디브로, 고등부 수학 전임강사
