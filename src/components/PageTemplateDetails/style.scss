@@ -4,6 +4,7 @@
 .page {
     @include margin-bottom(2);
     &__title {
+        font-family: 'Gugi', cursive;
         font-size: $typographic-base-font-size * 2.5;
         font-weight: 500;
         @include line-height(2);

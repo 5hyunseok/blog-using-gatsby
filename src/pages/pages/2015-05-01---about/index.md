@@ -12,14 +12,15 @@ path: "/about"
 
 반가워요 🙂
 
+## Experience
+- **TmaxOS** Software Engineer (2019.04 ~ present)
+
 ## Education
 
-- 연세대학교 컴퓨터과학과 졸업 2017.2
-
-- 연세대학교 일반대학원 컴퓨터과학과 졸업 (데이터베이스 연구실) 2019.2 
+- Yonsei Univ., M.S. Computer Science (2013.3 ~ 2017.2)
+- Yonsei.Univ., B.S. Computer Science Database Lab. (2017.3 ~ 2019.2)
 
 ## Career (Instructor)
 
-- 2012.11 ~ 2014.10  37docy 이상수학원 고등부 수학강사
-
-- 2014.12 ~ 2016.12  교육 스타트업 스터디브로, 고등부 수학 전임강사
+- **37docy** 이상수학원 고등부 수학강사 (2012.11 ~ 2014.10)
+- **교육 스타트업 스터디브로** 고등부 수학 전임강사 (2014.12 ~ 2016.12)
