@@ -5,7 +5,7 @@ layout: post
 draft: false
 path: "/posts/new-blog/"
 category: ""
-tags:
+tags: []
 description: "블로그 새로 팜"
 ---
 
