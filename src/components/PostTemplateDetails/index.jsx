@@ -48,9 +48,9 @@ class PostTemplateDetails extends React.Component {
         <div className="post-single">
           <div className="post-single__inner">
             <h1 className="post-single__title">{post.frontmatter.title}</h1>
-            <div className="post-single__date" style="text-align:center;">
+            {/* <div className="post-single__date" style="text-align:center;">
             {moment(post.frontmatter.date).format('MMMM D, YYYY')}
-            </div>
+            </div> */}
             <hr />
             <div
               className="post-single__body"
