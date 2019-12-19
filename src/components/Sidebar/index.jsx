@@ -15,6 +15,7 @@ class Sidebar extends React.Component {
       copyright,
       menu,
     } = this.props.data.site.siteMetadata
+    console.log(author);
     const isHomePage = get(location, 'pathname', '/') === '/'
 
     /* eslint-disable jsx-a11y/img-redundant-alt */
