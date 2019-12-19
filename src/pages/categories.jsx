@@ -67,6 +67,7 @@ export const pageQuery = graphql`
           email
           github
           instagram
+          facebook
         }
       }
     }
