@@ -7,7 +7,9 @@ class Links extends React.Component {
     const author = this.props.data
     const links = {
       github: author.github,
-      email: author.email
+      email: author.email,
+      instagram: author.instagram,
+      facebook: author.facebook
     }
 
     return (
@@ -24,6 +26,11 @@ class Links extends React.Component {
           </li>
         </ul>
         <ul className="links__list">
+          <li className="links__list-item">
+            <a href={`https://facebook.com/${links.facebook}`}>
+              <i className="icon-facebook" />
+            </a>
+          </li>
           <li className="links__list-item">
             <a href={`https://instagram.com/${links.instagram}`}>
               <i className="icon-instagram" />

@@ -35,6 +35,7 @@ module.exports = {
       email: '5xhyunseok@gmail.com',
       github: '5hyunseok',
       instagram: 'oh.hdh',
+      facebook: '5hyunseok',
     },
   },
   plugins: [
