@@ -1,6 +1,6 @@
 ---
 title: 2019년 독서 로그
-date: "2020-1-1T15:00:00.000Z"
+date: "2020-01-01T12:00:00.000Z"
 layout: post
 draft: false
 path: "/posts/books/2019-12"
