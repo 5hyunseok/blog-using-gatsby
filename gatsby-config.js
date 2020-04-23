@@ -22,6 +22,10 @@ module.exports = {
         path: '/categories/books/',
       },
       {
+        label: ' - Electron',
+        path: '/categories/electron/',
+      },
+      {
         label: ' - WebRTC',
         path: '/categories/webrtc/',
       },
