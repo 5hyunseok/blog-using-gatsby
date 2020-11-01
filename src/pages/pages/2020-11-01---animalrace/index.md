@@ -1,10 +1,8 @@
 ---
-title: 'Animal Race'
+title: 'Animal Race 애니멀 레이스 - 귀여운 사다리 게임'
 layout: page
 path: '/animal-race'
 ---
-
-# Animal Race 애니멀 레이스 - 귀여운 사다리 게임
 
 ![screenshot](./s1.png)
 
@@ -19,3 +17,7 @@ path: '/animal-race'
 문의
 
 - 이메일: 5xhyunseok@gmail.com
+
+개인정보처리방침
+
+- [링크](https://5hyunseok.com/animal-race/privacy)

@@ -1,5 +1,5 @@
 ---
-title: 'Animal Race Privacy'
+title: 'Animal Race 개인정보 처리방침'
 layout: page
 path: '/animal-race/privacy'
 ---
