@@ -49,4 +49,4 @@ path: '/animal-race/privacy'
 
 8. 개인정보 보호책임자 작성
 
-- 이메일 : 5xhyunseok@gmail.com
+이메일 : 5xhyunseok@gmail.com
